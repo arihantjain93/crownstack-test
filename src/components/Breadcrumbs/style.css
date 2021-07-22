@@ -1,0 +1,19 @@
+.breadcrumb {
+  float: left;
+}
+
+.breadcrumb-item {
+  text-decoration: underline;
+}
+
+.breadcrumb-item.active {
+  text-decoration: none;
+}
+
+.breadcrumb-arrow {
+  width: 4px;
+  height: 9px;
+  color: #6a6b6c;
+  margin-left: 12px;
+  margin-right: 7px;
+}
